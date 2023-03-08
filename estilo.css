@@ -1,0 +1,20 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: large;
+    text-align: justify;
+}
+
+body {
+    border: 1px blue dashed;
+}
+
+.asulado {
+    background-color: rgba(0, 255, 255, 0.13);
+}
+
+.arrojar {
+    background-color: rgba(255, 0, 0, 0.096);
+}

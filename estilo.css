@@ -7,7 +7,23 @@ p {
     text-align: justify;
 }
 
+h4 {
+    font-size: larger;
+}
+
+.asulado h4 {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.arrojar h4 {
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
 body {
+    background-image: url("Imagenes/Tourist.png");
+    background-repeat: no-repeat;
     border: 1px blue dashed;
 }
 
@@ -17,4 +33,12 @@ body {
 
 .arrojar {
     background-color: rgba(255, 0, 0, 0.096);
+}
+
+.arrojar b {
+    color: rgb(69, 69, 255);
+}
+
+.asulado b {
+    color: rgb(255, 102, 102);
 }
